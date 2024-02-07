@@ -1,0 +1,4 @@
+
+trainees = ["John", [2, ["James","Mary"]]]
+trainees[1][0]=8
+print(trainees)

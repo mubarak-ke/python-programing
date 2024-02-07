@@ -1,0 +1,9 @@
+#membership
+trainees = ["John", [2, ["James","Mary"]]]
+#slicing
+trainees = ["John", [2, ["James","Mary"]]]
+print(trainees[1:])  # Output: James
+
+
+
+

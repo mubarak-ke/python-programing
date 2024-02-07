@@ -1,0 +1,4 @@
+trainees = ["John", [2, ["James","Mary"]]]
+trainees[1][1].insert(1,"mike")
+print(trainees)
+

@@ -1,0 +1,3 @@
+trainees = ["John", [2, ["James","Mary"]]] 
+trainees.append(56)
+print(trainees)

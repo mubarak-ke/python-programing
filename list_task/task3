@@ -1,0 +1,5 @@
+trainees = ["John", [2, ["James","Mary"]]]
+trainees.append(56)
+
+
+
